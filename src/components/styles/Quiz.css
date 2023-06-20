@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "CeliasBold";
+    src: url(../../fonts/CeliasBold.otf);
+}
+
+@font-face {
+    font-family: "Celias";
+    src: url(../../fonts/Celias.otf);
+}
+
+.answers-container{
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    margin-top: 15px;
+    flex-wrap: wrap;
+}
+
+.question{
+    font-size: 17px;
+    font-family: "CeliasBold";
+}
+
+.answer{
+    border : 2px solid #1b1b1b;
+    border-radius: 7px;
+    padding: 4px 20px;
+    cursor: pointer;
+    font-family: "CeliasBold";
+}
+
+.answer:hover{
+    font-family: "CeliasBold";
+    background-color: #1b1b1b;
+    cursor: pointer;
+}
+
+.answer:active{
+    background-color: #1b1b1b;
+}
+
+.quiz{
+    color: whitesmoke;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    border-bottom: 4px dashed #42D9FF;
+    margin-bottom: 10px;
+}
+
+.quiz:nth-child(1){
+    margin-top: 30px;
+}

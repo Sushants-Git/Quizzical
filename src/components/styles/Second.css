@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "CeliasBold";
+    src: url(../../fonts/CeliasBold.otf);
+}
+
+@font-face {
+    font-family: "Celias";
+    src: url(../../fonts/Celias.otf);
+}
+
+.quizes-container{
+    margin-top: auto;
+    margin-bottom: auto;
+    max-width: 50%;
+}
+
+.cta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.cta p{
+    margin-right: 10px;
+    font-family: "CeliasBold";
+}
+
+.check-answer{
+    padding: 12px 17px;
+    font-size: 15px;
+    font-family: "CeliasBold";
+    border: none;
+    background-color: #42D9FF;
+    border-radius: 6px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.check-answer:hover{
+    background-color: #42D9FF;
+}
+
+@media (max-width: 690px){
+    .quizes-container{
+        max-width: 70%;
+    }
+}
