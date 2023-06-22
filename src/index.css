@@ -16,3 +16,7 @@ h1,p{
 #root{
     height: 100%;
 }
+
+canvas{
+    position: fixed;
+}
