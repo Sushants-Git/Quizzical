@@ -23,8 +23,10 @@
 
 .answer{
     border : 2px solid #1b1b1b;
+    width: calc(50% - 20px);
+    text-align: center;
     border-radius: 7px;
-    padding: 4px 20px;
+    padding: 8px;
     cursor: pointer;
     font-family: "CeliasBold";
 }
@@ -36,7 +38,7 @@
 }
 
 .answer:active{
-    background-color: #1b1b1b;
+    background-color: #28fd7f;
 }
 
 .quiz{

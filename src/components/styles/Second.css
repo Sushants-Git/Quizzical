@@ -11,7 +11,7 @@
 .quizes-container{
     margin-top: auto;
     margin-bottom: auto;
-    max-width: 50%;
+    max-width: 75%;
 }
 
 .cta{
@@ -44,6 +44,6 @@
 
 @media (max-width: 690px){
     .quizes-container{
-        max-width: 70%;
+        max-width: 90%;
     }
 }
