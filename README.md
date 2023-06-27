@@ -37,7 +37,7 @@ We are using the [Open Trivia DB](https://opentdb.com/) **API** to fetch data fo
 
 Example data received from the [Open Trivia DB](https://opentdb.com/) API :
 
-```json
+```js
 category: "Entertainment: Video Games"
 correct_answer: "Champ"
 difficulty: "easy"
