@@ -27,7 +27,6 @@ To get started :
 3. Run `npm i` or `npm install` to install all dependencies.
 4. Run `npm run dev` to start the application.
 
-<hr>
 
 ## Some details about the App
 
@@ -58,13 +57,12 @@ console.log( he.decode('foo &copy; bar &ne; baz &#x1D306; qux')) ;
 
 ### **Extra dependencies used**
 
-- [react-confetti](https://github.com/alampros/react-confetti): To render the Confetti that comes after the user finishes playing the game.
-- [react-use](https://github.com/streamich/react-use): 'react-confetti' requires 'react-use' to get the current windowSize.
-- [nanoid](https://github.com/ai/nanoid): used for generating unique IDs. 
+- [react-confetti](https://github.com/alampros/react-confetti) : To render the Confetti that comes after the user finishes playing the game.
+- [react-use](https://github.com/streamich/react-use) : 'react-confetti' requires 'react-use' to get the current windowSize.
+- [nanoid](https://github.com/ai/nanoid) : used for generating unique IDs. 
 
 **Note that you don't need to refer to their documentation, they are mentioned in case they cause conflict with the changes you made or need to understand their roles**
 
-<hr>
 
 ## Issues / Features
 
@@ -75,13 +73,13 @@ console.log( he.decode('foo &copy; bar &ne; baz &#x1D306; qux')) ;
 - [ ] Not letting the user check their answers until they have answered all the questions.
 - [ ] **Letting the user restart the game** ( When the user finishes a game, they don't have the option to restart the game.)   
 
-<hr>
-
 ## Contribution
 
-First of all, thanks a lot for taking the time to contribute. It must have been really hard going through my ugly code, once again thanks a lot.
+First of all, thanks a lot for taking the time to contribute. It must have been really hard going through my ugly code 😂😂😂, once again thanks a lot.
 
-To make a contribution you can open up an issue and let us know what you want to improve in the app.
+To make a contribution you can open up an issue and let us know what you want to improve in the app , so that we can assign you to it.
+
+HAPPY CODING !!!
 
 
 
