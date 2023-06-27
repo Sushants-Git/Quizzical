@@ -46,7 +46,7 @@ type: "multiple"
 ```
 
 If you look at the `question` key, you will see that in its value it has something like `&quot;Postal 2&quot;` these are referred to as `HTML entities`.\
-`&quot;Postal 2&quot;` should render as `"Postal 2"` on the page, we are using [he](https://www.npmjs.com/package/he) to render them properly on the page.
+`&quot;Postal 2&quot;` should render as `"Postal 2"` on the page, we are using [he](https://www.npmjs.com/package/he) to render them properly.
 
 Example :
 
