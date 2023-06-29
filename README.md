@@ -1,7 +1,7 @@
 # Quizzical
 
 **Howdy, good people of the internet !!**\
-**Quizzical** is a quizzing app built as a solo project. \
+**Quizzical** is a quizzing app initially built as a solo project. \
 The UI design inspiration was taken from [getform](https://getform.io/)
 
 <hr>
